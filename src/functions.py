@@ -251,8 +251,8 @@ def embed_msg(filepath: str, message: str):
                         image[i][count][2] -= 1
                     count += 1
         count = 0
-    mk_dir("./assets/steno")
-    cv2.imwrite("./assets/steno/result.png", image)
+    mk_dir("./data/images")
+    cv2.imwrite("./data/images/steno_result.png", image)
     image = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)
     return image
 
