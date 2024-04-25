@@ -1,5 +1,5 @@
-streamlit==1.33.0
-streamlit-option-menu==0.3.12
-pandas==2.2.2
-python-docx==1.1.0
-opencv-python==4.9.0.80
+streamlit
+streamlit_option_menu
+pandas
+python-docx
+opencv-python
