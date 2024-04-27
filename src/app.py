@@ -11,7 +11,7 @@ from warnings import simplefilter
 
 simplefilter(action= "ignore", category= FutureWarning)
 
-# PAGE CONFIGS
+# PAGE CONFIG
 
 st.set_page_config(
     page_title= "App", layout= "wide", page_icon= "globe",
