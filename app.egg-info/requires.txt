@@ -1,5 +1,0 @@
-streamlit
-streamlit_option_menu
-pandas
-python-docx
-opencv-python
