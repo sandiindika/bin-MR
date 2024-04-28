@@ -101,7 +101,7 @@ class MyApp():
             )
 
             ms_60()
-            show_caption("Copyright © 2024 | Muhammad Rifqy", size= 5)
+            show_caption("Copyright © 2024 | ~", size= 5)
         return selected
     
     def _pageEmbedMsg(self):
