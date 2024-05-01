@@ -1,12 +1,25 @@
-# IMAGE BASED STEGANOGRAPHY WITH CRYPTOGRAPHIC PROTECTION
+# Steganografi Berbasis Gambar dengan Perlindungan Kriptografi
+
 
 ## Instalasi dan Dependensi
 
-Untuk instalasi perangkat lunak, pastikan dependensi bawaan telah diinstal. Dependensi yang dibutuhkan tercantum dalam:
+  - Fork dan Clone repository
+    ```
+    $ git clone https://github.com/sandiindika/4fun-MR.git
+    ```
 
-```bash
-requirements.txt
-```
+  - Pergi ke main repository
+    ```
+    $ cd 4fun-MR
+    ```
+
+  - Instal semua modul yang dibutuhkan
+    ```
+    $ pip install -r requirements.txt
+    ```
+    
+  - Pastikan kamu memiliki `pip` terinstal sebelum menjalankan perintah tersebut. Jika belum, instal `pip` terlebih dahulu [disini](https://pip.pypa.io/en/stable/installation/).
+
 
 ## Dukungan atau Kontak
 
